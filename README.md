@@ -1,19 +1,21 @@
 <h1><center> Proyecto final </center></h1>
 
+**Grupo Nº 1**
+
 **Integrantes:** 
 - Andino Padilla José Luis
 - Calahorrano Cualchi David Alejandro
 - Fernández Obaco Andrés Patricio
 - Vizcarra Llulluma Iván Roberto
 
-**Grupo:**
-1
-
 **Periodo:**
 2022-A
 
 **Paralelo:**
 GR2COM
+
+**Materia:**
+Programación II
  
 **Fecha:**
 Quito, 26 de agosto del 2022
