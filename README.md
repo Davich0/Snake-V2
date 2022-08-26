@@ -25,6 +25,6 @@ Ing. Patricio Michael Paccha Angamarca
 
 ## Authors
 - [@Davich0](https://github.com/Davich0)
-- [@Davich0](https://github.com/Davich0)
-- [@Davich0](https://github.com/Davich0)
-- [@Davich0](https://github.com/Davich0)
+- [](https://github.com/Davich0)
+- [](https://github.com/Davich0)
+- [](https://github.com/Davich0)

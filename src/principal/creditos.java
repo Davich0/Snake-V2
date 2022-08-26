@@ -142,6 +142,5 @@ public class creditos extends javax.swing.JFrame
         menuPrincipal menuPrincipal = new menuPrincipal();
         menuPrincipal.setVisible(true);
         this.dispose();
-    }                                          
-                 
+    }
 }

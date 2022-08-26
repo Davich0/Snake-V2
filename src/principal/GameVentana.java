@@ -6,20 +6,20 @@ import java.util.Random;
 public class GameVentana extends JPanel implements ActionListener
 {
 	// Declaracion de variables.
-	int ANCHO_PANTALLA = 600,ALTURA_PANTALLA = 600;
-	int T_CUADRO = 15;
-	int T_ESPACIO = (ANCHO_PANTALLA*ALTURA_PANTALLA)/(T_CUADRO*T_CUADRO);
-	int DELAY = 100;
-	int x[] = new int[T_ESPACIO];
-	int y[] = new int[T_ESPACIO];
-	int nCuerpo = 5;
-	int comidasFin;
-	int comidaX;
-	int comidaY;
-	char direccion = 'R';
-	boolean correr = false;
-	Timer tiempo;
-	Random random;
+	public int ANCHO_PANTALLA = 600,ALTURA_PANTALLA = 600;
+	public int T_CUADRO = 15;
+	public int T_ESPACIO = (ANCHO_PANTALLA*ALTURA_PANTALLA)/(T_CUADRO*T_CUADRO);
+	public int DELAY = 100;
+	public int x[] = new int[T_ESPACIO];
+	public int y[] = new int[T_ESPACIO];
+	public int nCuerpo = 5;
+	public int comidasFin;
+	public int comidaX;
+	public int comidaY;
+	public char direccion = 'R';
+	public boolean correr = false;
+	public Timer tiempo;
+	public Random random;
 
 	//El constructor de la clase GameVentana2.
 	public GameVentana()
